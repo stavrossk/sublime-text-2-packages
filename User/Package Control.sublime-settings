@@ -2,8 +2,10 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Dictionaries",
 		"GBK Encoding Support",
 		"INI",
+		"Markdown Preview",
 		"Package Control",
 		"Prefixr",
 		"Search WordPress Codex"
