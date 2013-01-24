@@ -1,4 +1,5 @@
 User/Package Control.last-run
 
 GBK Encoding Support/tmp/*
-*/Startup.cache
+Default/Startup.cache
+*.pyc
