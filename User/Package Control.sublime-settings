@@ -6,9 +6,13 @@
 		"Dictionaries",
 		"GBK Encoding Support",
 		"INI",
+		"LESS",
 		"Markdown Preview",
+		"MarkdownBuild",
 		"Package Control",
+		"phpDocumentor",
 		"Prefixr",
+		"Sass",
 		"Search WordPress Codex"
 	]
 }

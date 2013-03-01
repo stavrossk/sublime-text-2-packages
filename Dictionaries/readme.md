@@ -2,9 +2,7 @@
 
 The following repository contains some dictionaries for the sepll checker feature of Sublime Text.
 
-Each language was downloaded from the Open Office list. Credits to the people working on that languages! Read every LANG.txt for details.
-
-	http://extensions.services.openoffice.org/en/dictionaries
+Most of them were downloaded from the Open Office list. Credits to the people working on these! Read every LANG.txt for details.
 
 ## Language List
 
@@ -19,6 +17,7 @@ Each language was downloaded from the Open Office list. Credits to the people wo
  * English (Canadian)
  * Español
  * Français
+ * Galego
  * Italiano
  * Lietuvių
  * Magyar
@@ -91,6 +90,8 @@ Note that `us-ascii` might be reported if there are no unicode (utf-8) character
 	* Valery Kocubinsky
 	* Maksim Norkin
 	* Alexandr Zhevedenko
+	* Marcos Chavarría Teijeiro
+	* Pedro Chambino
 
 ## Docs
 
