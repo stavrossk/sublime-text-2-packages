@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"DashDoc",
 		"Dictionaries",
 		"GBK Encoding Support",
 		"INI",
@@ -10,9 +11,9 @@
 		"Markdown Preview",
 		"MarkdownBuild",
 		"Package Control",
-		"phpDocumentor",
 		"Prefixr",
 		"Sass",
+		"SCSS",
 		"Search WordPress Codex"
 	]
 }

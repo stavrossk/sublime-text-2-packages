@@ -1,2 +1,4 @@
 [
+    { "keys": ["super+u"], "command": "upper_case" },
+    { "keys": ["super+l"], "command": "lower_case" }
 ]
