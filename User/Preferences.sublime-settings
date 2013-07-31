@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels ": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Monokai Blueberry Color Scheme/Monokai Blueberry.tmTheme",
 	"find_selected_text": true,
 	"font_size": 14.0,
 	"ignored_packages":
@@ -16,5 +16,6 @@
 		80
 	],
 	"show_full_path": true,
+	"theme": "Soda Dark.sublime-theme",
 	"word_wrap": true
 }
