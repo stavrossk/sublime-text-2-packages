@@ -1,9 +1,0 @@
-Warum dieses tmp-Verzeichnis?
-Das braucht beispielweise PHP 
-f黵 seine Sessions-Verwaltung.
-Also bitte nicht l鰏chen!
-
-Why this tmp-Folder?
-PHP need it for saving
-the Sessions. 
-So please do not delete it!

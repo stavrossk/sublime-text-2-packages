@@ -7,6 +7,7 @@ Most of them were downloaded from the Open Office list. Credits to the people wo
 ## Language List
 
  * Català
+ * Croatian
  * Dansk
  * Deutsch
  * Deutsch (AT)
@@ -16,7 +17,7 @@ Most of them were downloaded from the Open Office list. Credits to the people wo
  * Ελληνικά
  * English (Canadian)
  * Español
- * Français
+ * Français ( There is an special package for this language you may want to check https://github.com/superbob/SublimeTextLanguageFrench )
  * Galego
  * Italiano
  * Lietuvių
@@ -92,6 +93,9 @@ Note that `us-ascii` might be reported if there are no unicode (utf-8) character
 	* Alexandr Zhevedenko
 	* Marcos Chavarría Teijeiro
 	* Pedro Chambino
+	* Florian Morgan
+	* Zeljko Babic
+	* Chris---
 
 ## Docs
 
