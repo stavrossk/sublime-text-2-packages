@@ -37,7 +37,10 @@
     "fade_fold_buttons": true,
 
     // Columns in which to display vertical rulers
-    "rulers": [],
+    "rulers": [
+      70,
+      80
+    ],
 
     // Set to true to turn spell checking on by default
     "spell_check": false,
@@ -129,10 +132,10 @@
     "match_selection": true,
 
     // Additional spacing at the top of each line, in pixels
-    "line_padding_top": 0,
+    "line_padding_top": 3,
 
     // Additional spacing at the bottom of each line, in pixels
-    "line_padding_bottom": 0,
+    "line_padding_bottom": 3,
 
     // Set to false to disable scrolling past the end of the buffer.
     // On OS X, this value is overridden in the platform specific settings, so

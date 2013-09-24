@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"find_selected_text": true,
 	"font_size": 14.0,
+  // "font_face": "Lucida Console",
 	"ignored_packages":
 	[
 		"Vintage",
